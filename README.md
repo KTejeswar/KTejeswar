@@ -1,19 +1,10 @@
-# Hi there, I'm [Tejeswar Achari K]! 👋
+# Hi there, I'm Tejeswar Achari K! 👋
 
 I am a final-year **Computer Science and Engineering** undergraduate student at the **Rajiv Gandhi University of Knowledge Technologies (RGUKT), Ongole**.
 ---
+### 🚀 About Me
 
-<!--
-**KTejeswar/KTejeswar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education:** B.Tech in Computer Science and Engineering (Expected Graduation: 2027)
+- 🔭 **Current Focus:** Deepening my knowledge in Artificial Intelligence, Machine Learning, and building autonomous AI Agents.
+- ⚡ **Interests:** Computer vision, real-time object detection, Retrieval-Augmented Generation (RAG), and high-performance backend engineering.
+- 💬 **Ask me about:** Python, Machine Learning workflows, Large Language Models (LLMs), or building AI Agents.
