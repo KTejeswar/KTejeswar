@@ -8,7 +8,7 @@ I am a final-year **Computer Science and Engineering** undergraduate student at 
 - 🔭 **Current Focus:** Deepening my knowledge in Artificial Intelligence, Machine Learning, and building autonomous AI Agents.
 - ⚡ **Interests:** Computer vision, real-time object detection, Retrieval-Augmented Generation (RAG), and high-performance backend engineering.
 - 💬 **Ask me about:** Python, Machine Learning workflows, Large Language Models (LLMs), or building AI Agents.
-- 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tej__33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tejeswar-achari-k/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acharytejeswar@gmail.com) 
 
